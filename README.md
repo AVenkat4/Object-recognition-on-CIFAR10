@@ -1,1 +1,1 @@
-# Object-recognition-on-CIFAR10
+# Object recognition on CIFAR10 dataset using Keras
